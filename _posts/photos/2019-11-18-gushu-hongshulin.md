@@ -15,43 +15,43 @@ tags:
 我用微单6300也拍摄了几张：
 
 
-![01]({{ site.url }}/photos/20191111gushu/DSC00971.jpg)
+![]({{ site.url }}/photos/20191111gushu/DSC00971.jpg)
 
-![01]({{ site.url }}/photos/20191111gushu/DSC00973.jpg)
+![]({{ site.url }}/photos/20191111gushu/DSC00973.jpg)
 
-![01]({{ site.url }}/photos/20191111gushu/DSC00979.jpg)
+![]({{ site.url }}/photos/20191111gushu/DSC00979.jpg)
 
-![01]({{ site.url }}/photos/20191111gushu/DSC00980.jpg)
+![]({{ site.url }}/photos/20191111gushu/DSC00980.jpg)
 
-![01]({{ site.url }}/photos/20191111gushu/DSC00981.jpg)
+![]({{ site.url }}/photos/20191111gushu/DSC00981.jpg)
 
-![01]({{ site.url }}/photos/20191111gushu/DSC00982.jpg)
+![]({{ site.url }}/photos/20191111gushu/DSC00982.jpg)
 
-![01]({{ site.url }}/photos/20191111gushu/DSC00984.jpg)
+![]({{ site.url }}/photos/20191111gushu/DSC00984.jpg)
 
-![01]({{ site.url }}/photos/20191111gushu/DSC00988.jpg)
+![]({{ site.url }}/photos/20191111gushu/DSC00988.jpg)
 
-![01]({{ site.url }}/photos/20191111gushu/DSC00990.jpg)
+![]({{ site.url }}/photos/20191111gushu/DSC00990.jpg)
 
-![01]({{ site.url }}/photos/20191111gushu/DSC00991.jpg)
+![]({{ site.url }}/photos/20191111gushu/DSC00991.jpg)
 
-![01]({{ site.url }}/photos/20191111gushu/DSC00993.jpg)
+![]({{ site.url }}/photos/20191111gushu/DSC00993.jpg)
 
-![01]({{ site.url }}/photos/20191111gushu/DSC00994.jpg)
+![]({{ site.url }}/photos/20191111gushu/DSC00994.jpg)
 
-![01]({{ site.url }}/photos/20191111gushu/DSC00996.jpg)
+![]({{ site.url }}/photos/20191111gushu/DSC00996.jpg)
 
-![01]({{ site.url }}/photos/20191111gushu/DSC00997.jpg)
+![]({{ site.url }}/photos/20191111gushu/DSC00997.jpg)
 
-![01]({{ site.url }}/photos/20191111gushu/DSC01006.jpg)
+![]({{ site.url }}/photos/20191111gushu/DSC01006.jpg)
 
-![01]({{ site.url }}/photos/20191111gushu/DSC01013.jpg)
+![]({{ site.url }}/photos/20191111gushu/DSC01013.jpg)
 
-![01]({{ site.url }}/photos/20191111gushu/DSC01015.jpg)
+![]({{ site.url }}/photos/20191111gushu/DSC01015.jpg)
 
-![01]({{ site.url }}/photos/20191111gushu/DSC01023.jpg)
+![]({{ site.url }}/photos/20191111gushu/DSC01023.jpg)
 
-![01]({{ site.url }}/photos/20191111gushu/DSC01024.jpg)
+![]({{ site.url }}/photos/20191111gushu/DSC01024.jpg)
 
 ![01]({{ site.url }}/photos/20191111gushu/DSC01027.jpg)
 
