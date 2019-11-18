@@ -3,7 +3,7 @@ title: Eheieh Blog
 SEOTitle: 春簨的博客 | Eheieh Blog
 header-img: img/home-bg.jpg
 email: chason_wu@163.com
-description: "觅之，自有所获。"
+description: adf
 keyword: "春簨的博客"
 url: ""              # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
@@ -38,10 +38,23 @@ plugins: [jekyll-paginate]
 # replace redcarpet to kramdown,
 # although redcarpet can auto highlight code, the lack of header-id make the catalog impossible, so I switch to kramdown
 # document: http://jekyllrb.com/docs/configuration/#kramdown
+# 转换
+markdown:    kramdown
+highlighter: rouge
+lsi:         false
+excerpt_separator: "\n\n"
+incremental: false
 markdown: kramdown
 kramdown:
   input: GFM                            # use Github Flavored Markdown !important
 
+markdown_ext: "markdown,md"
+
+
+
+# Markdown 处理器
+rdiscount:
+  extensions: []
 
 
 # Disqus settings
@@ -84,3 +97,9 @@ friends: [
         href: "#"
     }
 ]
+
+
+links1:
+  - name: 所有
+    url: /
+    type: 
