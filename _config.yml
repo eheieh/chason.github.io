@@ -103,3 +103,5 @@ links1:
   - name: 所有
     url: /
     type: 
+
+theme: jekyll-theme-cayman
